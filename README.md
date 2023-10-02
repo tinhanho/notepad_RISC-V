@@ -1,5 +1,4 @@
-# notepad_RISC-V
-risc-v user defined language
+# notepad RISC-V darkmode user defined language
 
 1. Open notepad++
 2. Language → User Defined Language → Define your language
